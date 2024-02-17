@@ -6,4 +6,7 @@ Pay the time: Build an embelled systen with 4 button such that when you press a 
 ### Problem 2
 Person counter: Given a room with a single color through which only one person can cross at a time. Count the number of people inside the room at a time.
 
-
+#### Contribuitors
+1. Bhuvana Teja Kanakam
+2. Pramod Reddy Atmakuri
+3. Jayanth Varma Kothapalli
