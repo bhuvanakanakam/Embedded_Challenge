@@ -10,3 +10,5 @@ Person counter: Given a room with a single color through which only one person c
 1. Bhuvana Teja Kanakam
 2. Pramod Reddy Atmakuri
 3. Jayanth Varma Kothapalli
+
+note : won first place in the embedded challenge, taken place in Mahindra University on Feb 17. 5k price money.
